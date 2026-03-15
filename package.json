@@ -1,6 +1,6 @@
 {
     "name": "@carpages/jquery-hammerjs",
-    "version": "2.1.0",
+    "version": "3.0.0",
     "description": "jquery.hammer.js",
     "main": "dist/jquery.hammer.js",
     "files": [
