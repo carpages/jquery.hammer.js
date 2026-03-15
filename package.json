@@ -48,5 +48,8 @@
         "eslint-plugin-qunit": "^8.2.6",
         "globals": "^17.4.0",
         "rollup": "^4.59.0"
+    },
+    "publishConfig": {
+        "access": "public"
     }
 }
